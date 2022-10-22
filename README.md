@@ -5,6 +5,8 @@ This is a website all about the chiefs. The Chiefs are an NFL team from Kansas C
 
 ![2019_KC_wbg](https://user-images.githubusercontent.com/116388846/197315119-d0231624-703d-4080-8ad8-c6caa1b0b8c7.png)
 
+https://www.chiefs.com/
+
 ![images](https://user-images.githubusercontent.com/116388846/197315616-baef83d2-b128-403d-b6e7-2206719ab108.jpeg)
 
 
@@ -18,7 +20,7 @@ This is a website all about the chiefs. The Chiefs are an NFL team from Kansas C
 
 
 
-<a herf ="google.com" ><link><a/>
+
 
 
 
