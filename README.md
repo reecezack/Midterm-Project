@@ -1,7 +1,7 @@
-# Midterm-Project
-## Final Project
+# **Kansas City Chiefs**
+## *Zack Reece*
 
-**Description:** Create a personal site in markdown that is hosted on GitHub and provides information about you.
+This is a website all about the chiefs. I will be highlighting some key players, showing some stats, and showing the Chief's record and schedule.  
 
 **Purpose:** This project provides experience working with markdown, Git/GitHub, and IT-related concepts and knowledge.
 
