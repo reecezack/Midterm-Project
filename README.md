@@ -19,7 +19,7 @@ https://www.chiefs.com/
 -Clyde Edwards-Helaire
 
 
-https://github.com/reecezack/Midterm-Project/edit/main/2.md
+https://github.com/reecezack/Midterm-Project/blob/main/2.md
 
 
 
