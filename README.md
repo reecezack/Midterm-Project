@@ -5,24 +5,20 @@ This is a website all about the chiefs. The Chiefs are an NFL team from Kansas C
 
 ![2019_KC_wbg](https://user-images.githubusercontent.com/116388846/197315119-d0231624-703d-4080-8ad8-c6caa1b0b8c7.png)
 
+![images](https://user-images.githubusercontent.com/116388846/197315616-baef83d2-b128-403d-b6e7-2206719ab108.jpeg)
 
-**Purpose:** This project provides experience working with markdown, Git/GitHub, and IT-related concepts and knowledge.
 
-**Requirements:**
+**Key Players**
 
-This project is to be managed in a public GitHub repository. Submit the Clone with HTTPS URL for the repository that contains the personal site.
+-Patrick Mahomes
 
-The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_page) for your personal site on GitHub. Other markdown pages are to be linked to from the README.md. Provide navigation forward and backward when linking between markdown documents. Also, if useful, create links to navigate within a markdown document.
+-Travis Kelce
 
-The information that you present on the markdown pages is up to you. But, it must meet the following requirements. The site must have a minimum of five markdown pages and contain the following somewhere on the pages.
+-Clyde Edwards-Helaire
 
-* Paragraphs.
-* Headers.
-* Links between the markdown pages.
-* Links to other web sites.
-* One or more images that are hosted in the GitHub repo.
-* One or more images that are hosted elsewhere on the web.
-* A list.
-* Some text that is bolded.
-* Some text that is italicized.
-* A block of code.
+
+
+<a herf ="google.com" ><link><a/>
+
+
+
